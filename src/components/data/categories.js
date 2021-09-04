@@ -47,12 +47,5 @@ export default [
     title: "Sustainability",
     selected: false,
   },
-  {
-    title: "Vaccination",
-    selected: false,
-  },
-  {
-    title: "HealthCare",
-    selected: false,
-  },
+
 ];
